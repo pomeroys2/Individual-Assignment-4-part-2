@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Synonym Finder</string>
+    <string name="emptyString1" />
+    <string name="emptyString2" />
+</resources>
